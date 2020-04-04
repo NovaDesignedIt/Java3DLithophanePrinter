@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d96e460-5185-46c5-94bb-7abc2b875269" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZjN4YkwE1JBCnorC4gg19hXiji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SolidTest">
+    <configuration name="SolidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SolidTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SolidTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SolidTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SolidTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolidTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SolidTest" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolidTest" />
+        <item itemvalue="JUnit.SolidTest.test9" />
+        <item itemvalue="JUnit.SolidTest.test2" />
+        <item itemvalue="JUnit.SolidTest.test1" />
+        <item itemvalue="JUnit.SolidTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d96e460-5185-46c5-94bb-7abc2b875269" name="Default Changelist" comment="" />
+      <created>1585348352105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585348352105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="-870" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585512680977">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="294" y="-870" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585512680977" />
+    <state x="601" y="-735" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585511858685">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="601" y="-735" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585511858685" />
+    <state x="570" y="-749" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585512647533">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="570" y="-749" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585512647533" />
+    <state x="620" y="-770" key="FileChooserDialogImpl" timestamp="1585675401123">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="620" y="-770" key="FileChooserDialogImpl/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585675401123" />
+    <state width="1637" height="424" key="GridCell.Tab.1.bottom" timestamp="1585693171514">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="424" key="GridCell.Tab.1.bottom/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585693171514" />
+    <state width="1637" height="424" key="GridCell.Tab.1.center" timestamp="1585693171513">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="424" key="GridCell.Tab.1.center/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585693171513" />
+    <state width="1637" height="424" key="GridCell.Tab.1.left" timestamp="1585693171513">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="424" key="GridCell.Tab.1.left/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585693171513" />
+    <state width="1637" height="424" key="GridCell.Tab.1.right" timestamp="1585693171514">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="424" key="GridCell.Tab.1.right/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585693171514" />
+    <state x="308" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1585863601570">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="308" y="289" key="com.intellij.ide.util.TipDialog/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585863601570" />
+    <state x="472" y="287" key="com.intellij.ide.util.TipDialog/0.0.1536.864/0.-1050.1680.1050@0.0.1536.864" timestamp="1585743321691" />
+    <state x="544" y="-636" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585512721829">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="544" y="-636" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585512721829" />
+    <state x="496" y="-282" key="run.anything.popup" timestamp="1585774246375">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="496" y="-282" key="run.anything.popup/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585774246375" />
+    <state x="503" y="-823" width="672" height="678" key="search.everywhere.popup" timestamp="1585512479663">
+      <screen x="0" y="-1050" width="1680" height="1050" />
+    </state>
+    <state x="503" y="-823" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/0.-1050.1680.1050@0.-1050.1680.1050" timestamp="1585512479663" />
+  </component>
+</project>
